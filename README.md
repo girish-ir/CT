@@ -1,4 +1,4 @@
-# Simple log maching approach
+# Simple log matching approach
 The approach can be converted to a supervised learning problem by having historically identified correct matchs
 
 # The feature can be used for supevised learning:
